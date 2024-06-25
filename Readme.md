@@ -1,5 +1,7 @@
 # Module Zap integration to FX
 
+[![Go](https://github.com/keltanas/go-zap-fx/actions/workflows/go.yml/badge.svg?branch=master)](https://github.com/keltanas/go-zap-fx/actions/workflows/go.yml)
+
 ```
 go get github.com/keltanas/go-zap-fx
 ```
